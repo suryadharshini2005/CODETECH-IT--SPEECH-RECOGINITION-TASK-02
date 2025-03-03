@@ -25,3 +25,6 @@ Arduino UNO – Microcontroller for processing inputs and outputs.
 C++ (Arduino IDE) – Programming language for coding the microcontroller.
 LiquidCrystal_I2C Library – For interfacing the I2C LCD display.
 Digital Input/Output – Button and LED control using Arduino’s GPIO pins.
+
+***OUTPUT***
+![Image](https://github.com/user-attachments/assets/b803967d-4e42-48e8-94d3-20d15c5a4ad1)
